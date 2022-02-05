@@ -23,6 +23,51 @@ Introductions
 
 The goal of this first activity is to get students comfortable enough to form a group of 4–6 students and have them begin working through a tutorial as a group. Since this is the first time the students are meeting, and the class is built around group projects, it is important to give the students some fodder for connection. The first way to facilitate this is through the usual activity of asking each student to tell the whole group a few factoids about themselves, such as what the study in school, why they came to the class, if they have any previous experience with the technologies, and what their favorite one-handed food is. During this type of introduction, it is helpful to give a list of items for each student to speak to, this helps shy students have structure for introducing themselves and helps gregarious students stay within a reasonable time.
 
-| ![GettingStarted-QandA.jpg]({{< resource_file 20dc0c69-71df-ac60-f61f-f835875a2641 >}}) |  {{< br >}}{{< br >}}  **[Getting Started: Q&A]({{< baseurl >}}/resources/getting-started-q-a)** {{< br >}}{{< br >}} Mark Vrablic and Kyle Keane answer questions from students about the class, activities, and technology being used.   {{< br >}}{{< br >}}  |
-| ![GettingStarted-IntroducingIntroductions.jpg]({{< resource_file c7616225-d41c-45be-244c-713b4f6ef782 >}}) |  {{< br >}}{{< br >}} ﻿**[Getting Started: Introducing Introductions]({{< baseurl >}}/resources/getting-started-introducing-introductions)** {{< br >}}{{< br >}} Kyle Keane describes the first ice breaker of the class and how we will manage the task of having everyone introduce themselves.   {{< br >}}{{< br >}}  |
-| ![GettingStarted-Icebreaker.jpg]({{< resource_file a3277f10-f9aa-995c-1e25-ee41ce483aa2 >}}) |  {{< br >}}{{< br >}} ﻿**[Getting Started: Icebreaker]({{< baseurl >}}/resources/getting-started-icebreaker)** {{< br >}}{{< br >}} Kyle Keane describes a basic icebreaker for the class to introduce themselves to each other by providing information about things like where they are from, their favorite food, and what they hope to do in the class.   {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿![GettingStarted-QandA.jpg]({{< resource_file 20dc0c69-71df-ac60-f61f-f835875a2641 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ **[Getting Started: Q&A]({{< baseurl >}}/resources/getting-started-q-a)**
+
+Mark Vrablic and Kyle Keane answer questions from students about the class, activities, and technology being used.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![GettingStarted-IntroducingIntroductions.jpg]({{< resource_file c7616225-d41c-45be-244c-713b4f6ef782 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿**[Getting Started: Introducing Introductions]({{< baseurl >}}/resources/getting-started-introducing-introductions)**
+
+Kyle Keane describes the first ice breaker of the class and how we will manage the task of having everyone introduce themselves.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿![GettingStarted-Icebreaker.jpg]({{< resource_file a3277f10-f9aa-995c-1e25-ee41ce483aa2 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿**[Getting Started: Icebreaker]({{< baseurl >}}/resources/getting-started-icebreaker)**
+
+Kyle Keane describes a basic icebreaker for the class to introduce themselves to each other by providing information about things like where they are from, their favorite food, and what they hope to do in the class.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -27,6 +27,51 @@ After hearing about collaboration and having to learn the github workflow, stude
 
 Once students pair up, they are usually very self-managing in deciding on a modification and executing it together. It can be helpful to walk around and jump into each team to ask them about their modification and model collaborative brainstorming and troubleshooting.
 
-| ![ExpandingOnTutorials-KinectDemo.jpg]({{< resource_file f7094801-5437-fa1d-c520-990269a2d8e2 >}}) |  {{< br >}}{{< br >}}  **[Expanding on Tutorials: Kinect Demo]({{< baseurl >}}/resources/expanding-on-tutorials-kinect-demo)** {{< br >}}{{< br >}} Mark Vrablic demonstrates how the Unity game engine connects to the Microsoft Kinect. The guided tutorial that students have completed called “roll-a-ball” is a game normally driven by arrow keys on a standard keyboard.   {{< br >}}{{< br >}}  |
-| ![ExpandingOnTutorials.jpg]({{< resource_file f6717c59-7413-3bd6-c30c-7339992f0a18 >}}) |  {{< br >}}{{< br >}} ﻿**[Expanding on Tutorials]({{< baseurl >}}/resources/expanding-on-tutorials)** {{< br >}}{{< br >}} Kyle Keane talks about the logistics and purpose of expanding on tutorials, and how this is related to creating, inventing, and learning.   {{< br >}}{{< br >}}  |
-| ![ExpandingOnTutorials-HumansMatterAndClassDetails.jpg]({{< resource_file 516af609-a254-d398-d77b-24d2b05e7742 >}}) |  {{< br >}}{{< br >}} ﻿**[Expanding on Tutorials: Humans Matter and Class Details]({{< baseurl >}}/resources/expanding-on-tutorials-humans-matter-and-class-details)** {{< br >}}{{< br >}} Kyle Keane provides a high-level introduction to the structure of the class, along with some expectation setting about engagement.   {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿![ExpandingOnTutorials-KinectDemo.jpg]({{< resource_file f7094801-5437-fa1d-c520-990269a2d8e2 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ **[Expanding on Tutorials: Kinect Demo]({{< baseurl >}}/resources/expanding-on-tutorials-kinect-demo)**
+
+Mark Vrablic demonstrates how the Unity game engine connects to the Microsoft Kinect. The guided tutorial that students have completed called “roll-a-ball” is a game normally driven by arrow keys on a standard keyboard.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![ExpandingOnTutorials.jpg]({{< resource_file f6717c59-7413-3bd6-c30c-7339992f0a18 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿**[Expanding on Tutorials]({{< baseurl >}}/resources/expanding-on-tutorials)**
+
+Kyle Keane talks about the logistics and purpose of expanding on tutorials, and how this is related to creating, inventing, and learning.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿![ExpandingOnTutorials-HumansMatterAndClassDetails.jpg]({{< resource_file 516af609-a254-d398-d77b-24d2b05e7742 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿**[Expanding on Tutorials: Humans Matter and Class Details]({{< baseurl >}}/resources/expanding-on-tutorials-humans-matter-and-class-details)**
+
+Kyle Keane provides a high-level introduction to the structure of the class, along with some expectation setting about engagement.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

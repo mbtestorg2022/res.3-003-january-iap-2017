@@ -33,5 +33,40 @@ The [tutorial](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial) 
 Class Videos
 ------------
 
-|  {{< br >}}{{< br >}} ﻿![GuidedTutorial-IntroductionToUnity.jpg]({{< resource_file 94d20b64-cfe5-34fa-a58f-8bd301456f49 >}}) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  **[Guided Tutorial: Introduction to Unity]({{< baseurl >}}/resources/guided-tutorial-introduction-to-unity)** {{< br >}}{{< br >}} Mark Vrablic provides an overview of the Unity game engine and how to work with the software  interface. This is provided to help students get started on an even footing when jumping into the guided tutorial.   {{< br >}}{{< br >}}  |
-| ![GuidedTutorial-PurposeAndOverview.jpg]({{< resource_file 8115fb78-f963-e70f-51e3-541bca643c5c >}})  |  {{< br >}}{{< br >}}  [**Guided Tutorial: Purpose and Overview**]({{< baseurl >}}/resources/guided-tutorial-purpose-and-overview) {{< br >}}{{< br >}} Kyle Keane sets expectations for the group dynamics of the guided tutorial, letting students know they should ask each other lots of questions and work as a team to find answers.   {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+﻿![GuidedTutorial-IntroductionToUnity.jpg]({{< resource_file 94d20b64-cfe5-34fa-a58f-8bd301456f49 >}})
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ **[Guided Tutorial: Introduction to Unity]({{< baseurl >}}/resources/guided-tutorial-introduction-to-unity)**
+
+Mark Vrablic provides an overview of the Unity game engine and how to work with the software  interface. This is provided to help students get started on an even footing when jumping into the guided tutorial.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![GuidedTutorial-PurposeAndOverview.jpg]({{< resource_file 8115fb78-f963-e70f-51e3-541bca643c5c >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ [**Guided Tutorial: Purpose and Overview**]({{< baseurl >}}/resources/guided-tutorial-purpose-and-overview)
+
+Kyle Keane sets expectations for the group dynamics of the guided tutorial, letting students know they should ask each other lots of questions and work as a team to find answers.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

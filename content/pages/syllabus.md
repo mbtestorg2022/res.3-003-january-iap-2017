@@ -34,14 +34,127 @@ If you want to use the Microsoft Kinect Controller for your video game, you have
 Schedule
 --------
 
-{{< anchor "UnityCalendar" >}}{{< /anchor >}}| SES # | TOPICS / CLASS ACTIVITIES |
-| --- | --- |
-| 1 | Survey of GitHub, Arduino, and the basics of software collaboration: {{< br >}}{{< br >}} *   20 minute lecture: An overview of GitHub collaboration{{< br >}}*   40 minute activity: Creating and contributing to repositories{{< br >}}*   20 minute lecture: An overview of Unity programming{{< br >}}*   100 minute activity: Recreating a guided project (roll-a-ball) {{< br >}}{{< br >}}  |
-| 2 | The basics of design and ideation: {{< br >}}{{< br >}} *   20 minute activity: Using the Microsoft Kinect{{< br >}}*   40 minute activity: Expand, explore, and personalize the roll-a-ball example{{< br >}}*   20 minute lecture: Overview of collaborative design process{{< br >}}*   40 minute activity: Team formation for short project{{< br >}}*   60 minute activity: Start short project {{< br >}}{{< br >}}  |
-| 3 | Project design and execution for short projects: {{< br >}}{{< br >}} *   30 minute lecture: Crash course in prototyping and documenting ideas{{< br >}}*   150 minute activity: Short project {{< br >}}{{< br >}}  |
-| 4 | Ideation, pitches, team formation, and project selection for short projects: {{< br >}}{{< br >}} *   30 minute discussion: Reflections from yesterday{{< br >}}*   30 minute lecture: Overview of plan, team structure and expected outcomes{{< br >}}*   30 minute discussion: Project ideation{{< br >}}*   30 minute activity: Team formation{{< br >}}*   60 minute activity: Get started or refine idea {{< br >}}{{< br >}}  |
-| 5 | Presentation of short projects |
-| 6 | Project time for long projects: 180 minute open lab time: Meet and create with guidance |
-| 7 | Project time for long projects: 180 minute open lab time: Meet and create with guidance |
-| 8 | Project time for long projects: 180 minute open lab time: Meet and create with guidance |
-| 9 | Presentation of long projects
+{{< anchor "UnityCalendar" >}}{{< /anchor >}}{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS / CLASS ACTIVITIES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Survey of GitHub, Arduino, and the basics of software collaboration:
+
+*   20 minute lecture: An overview of GitHub collaboration
+*   40 minute activity: Creating and contributing to repositories
+*   20 minute lecture: An overview of Unity programming
+*   100 minute activity: Recreating a guided project (roll-a-ball)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The basics of design and ideation:
+
+*   20 minute activity: Using the Microsoft Kinect
+*   40 minute activity: Expand, explore, and personalize the roll-a-ball example
+*   20 minute lecture: Overview of collaborative design process
+*   40 minute activity: Team formation for short project
+*   60 minute activity: Start short project
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Project design and execution for short projects:
+
+*   30 minute lecture: Crash course in prototyping and documenting ideas
+*   150 minute activity: Short project
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Ideation, pitches, team formation, and project selection for short projects:
+
+*   30 minute discussion: Reflections from yesterday
+*   30 minute lecture: Overview of plan, team structure and expected outcomes
+*   30 minute discussion: Project ideation
+*   30 minute activity: Team formation
+*   60 minute activity: Get started or refine idea
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of short projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Project time for long projects: 180 minute open lab time: Meet and create with guidance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Project time for long projects: 180 minute open lab time: Meet and create with guidance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Project time for long projects: 180 minute open lab time: Meet and create with guidance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of long projects
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
