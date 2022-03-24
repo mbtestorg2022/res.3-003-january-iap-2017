@@ -29,7 +29,7 @@ Hardware
 Posters
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Workshop flyer (PDF)]({{< baseurl >}}/resources/mitres_3_003iap17_flyer)
+[Workshop flyer (PDF)]({{< baseurl >}}/resources/mitres_3_003iap17_flyer)
 
 Emails
 ------
