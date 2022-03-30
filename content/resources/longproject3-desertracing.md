@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 767c6fdd-74cf-47dc-df45-71a01a2af0c3
 resourcetype: Image
 title: LongProject3-DesertRacing.jpg
 uid: 08eece0c-01e9-6692-952d-cc97455d37cd

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a27c7096-22f5-33d3-7924-cba8ea5aa93f
 resourcetype: Image
 title: ShortProject7-DownhillSkiing.jpg
 uid: e96f41a4-5f67-0b44-729d-0c4aaabaa86e

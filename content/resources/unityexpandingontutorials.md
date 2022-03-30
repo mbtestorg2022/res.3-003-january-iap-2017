@@ -8,6 +8,7 @@ image_metadata:
     interesting.
   credit: Courtesy of MIT OpenCourseWare.
   image-alt: Students working in Unity
+parent_uid: 48db19f3-2847-8c3b-e3ad-7ce69c5aa9e0
 resourcetype: Image
 title: UnityExpandingOnTutorials.jpg
 uid: 53bdff1b-3e5d-ad56-2de7-633cf371aa89

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a27c7096-22f5-33d3-7924-cba8ea5aa93f
 resourcetype: Image
 title: ShortProject3-Goshzilla.jpg
 uid: 3971c350-f925-0e46-009c-c6bcba933ffc

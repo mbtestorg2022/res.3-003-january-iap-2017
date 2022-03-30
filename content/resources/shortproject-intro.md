@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a27c7096-22f5-33d3-7924-cba8ea5aa93f
 resourcetype: Image
 title: ShortProject-Intro.jpg
 uid: ff4de26a-a195-ad6d-a3f3-f13159a06bb5

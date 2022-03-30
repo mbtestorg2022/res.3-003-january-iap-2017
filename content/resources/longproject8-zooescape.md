@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 767c6fdd-74cf-47dc-df45-71a01a2af0c3
 resourcetype: Image
 title: LongProject8-ZooEscape.jpg
 uid: 912f2fa3-5dc4-2467-0776-e8f9ba085c06

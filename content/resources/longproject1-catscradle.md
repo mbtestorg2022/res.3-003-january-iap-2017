@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 767c6fdd-74cf-47dc-df45-71a01a2af0c3
 resourcetype: Image
 title: LongProject1-CatsCradle.jpg
 uid: c283e2f2-f2f5-35e5-1f66-235a21e42ced

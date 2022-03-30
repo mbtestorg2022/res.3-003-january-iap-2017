@@ -8,6 +8,7 @@ image_metadata:
     the Microsoft Kinect.
   credit: Courtesy of MIT OpenCourseWare.
   image-alt: Motions for the Kinect to track
+parent_uid: 51c2a235-b1c1-48e0-5200-4ab2a384f97b
 resourcetype: Image
 title: UnityCollaboration.jpg
 uid: 833a9605-be9d-31c5-2da5-5f5b0356761a

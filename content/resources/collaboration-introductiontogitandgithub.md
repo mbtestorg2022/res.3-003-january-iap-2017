@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 51c2a235-b1c1-48e0-5200-4ab2a384f97b
 resourcetype: Image
 title: Collaboration-IntroductionToGitAndGithub.jpg
 uid: 89fa2533-bbd5-40e9-1138-89cdc531964f

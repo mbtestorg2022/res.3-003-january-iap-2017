@@ -8,6 +8,7 @@ image_metadata:
     Ball," a mind controlled bowling game.
   credit: Courtesy of MIT OpenCourseWare
   image-alt: Group brainstorming
+parent_uid: 767c6fdd-74cf-47dc-df45-71a01a2af0c3
 resourcetype: Image
 title: UnityLongProject.jpg
 uid: 963fe33a-0705-ccce-ed62-1cb5345f8344

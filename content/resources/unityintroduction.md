@@ -7,6 +7,7 @@ image_metadata:
   caption: Members introduce themselves and play an improv game.
   credit: Courtesy of MIT OpenCourseWare.
   image-alt: Playing an improv game
+parent_uid: 5b151cad-29ac-952b-f31d-9cdf22b95bef
 resourcetype: Image
 title: UnityIntroduction.jpg
 uid: 99429af4-3368-df6f-9be4-6979a19cf4b6

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 48db19f3-2847-8c3b-e3ad-7ce69c5aa9e0
 resourcetype: Image
 title: ExpandingOnTutorials-HumansMatterAndClassDetails.jpg
 uid: 516af609-a254-d398-d77b-24d2b05e7742

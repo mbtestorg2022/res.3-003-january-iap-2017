@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: d5e47884-d3c2-5082-2908-531e757c1745
 resourcetype: Image
 title: IMG_3928-compressor.jpg
 uid: 6ff4a3a7-b152-e293-21f6-803a2ff6b316

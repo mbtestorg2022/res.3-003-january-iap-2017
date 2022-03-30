@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 48db19f3-2847-8c3b-e3ad-7ce69c5aa9e0
 resourcetype: Image
 title: ExpandingOnTutorials-KinectDemo.jpg
 uid: f7094801-5437-fa1d-c520-990269a2d8e2

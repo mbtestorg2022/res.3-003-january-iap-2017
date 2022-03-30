@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 767c6fdd-74cf-47dc-df45-71a01a2af0c3
 resourcetype: Image
 title: LongProject4-JediBall.jpg
 uid: 79b4ba90-7b4f-d6e5-657e-5decb7b3a928

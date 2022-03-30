@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a27c7096-22f5-33d3-7924-cba8ea5aa93f
 resourcetype: Image
 title: ShortProject2-Bodypaint.jpg
 uid: 09536310-66b9-611e-62f0-95301acc8c96

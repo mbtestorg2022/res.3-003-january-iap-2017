@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a27c7096-22f5-33d3-7924-cba8ea5aa93f
 resourcetype: Image
 title: ShortProject6-CarRacing.jpg
 uid: 45cd6c35-61cb-0767-6220-efd006ac7716

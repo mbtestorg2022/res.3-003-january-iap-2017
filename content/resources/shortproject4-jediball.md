@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a27c7096-22f5-33d3-7924-cba8ea5aa93f
 resourcetype: Image
 title: ShortProject4-JediBall.jpg
 uid: b2a8d1e8-6d66-fca7-bb8a-10e68788bc68

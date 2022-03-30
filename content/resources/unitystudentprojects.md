@@ -9,6 +9,7 @@ image_metadata:
     Kinect controller.
   credit: Courtesy of MIT OpenCourseWare.
   image-alt: Student drawing videogame schematic diagram on chalkboard
+parent_uid: 0f036db7-c54a-1cc7-a1d0-7a87f0d7f880
 resourcetype: Image
 title: UnityStudentProjects.jpg
 uid: 35ff3872-2761-cbb3-5e0f-fd5ee1812a4b

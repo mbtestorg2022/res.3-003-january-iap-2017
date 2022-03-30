@@ -7,6 +7,7 @@ image_metadata:
   caption: Students in the Unity guided tutorial session.
   credit: Courtesy of MIT OpenCourseWare.
   image-alt: Students in the Unity guided tutorial session interacting with the instructor
+parent_uid: 0b759eb6-d4b4-baed-afc8-bf58c1e780ee
 resourcetype: Image
 title: Unity_GuidedTutorial.jpg
 uid: 6f0d1405-d3b9-4e75-7c79-3afc12686847
